@@ -1,0 +1,82 @@
+2019-03-02 16:19:13 [000000] tea for god
+2019-03-02 16:19:13 [000000] by void room (2016-2018)
+2019-03-02 16:19:13 [000000] build: v0.3.0 (#166) built on: Nov 24 2018, 22:50:32
+2019-03-02 16:19:13 [000000] load code info
+2019-03-02 16:19:13 [000000] loading settings...
+2019-03-02 16:19:13 [000000] initialising VR...
+2019-03-02 16:19:13 [000000] choose oculus
+2019-03-02 16:19:13 [000000] initialising oculus
+2019-03-02 16:19:13 [000000] create device
+2019-03-02 16:19:13 [000000] device : Oculus Rift CV1
+2019-03-02 16:19:13 [000000] check load play area rect
+2019-03-02 16:19:13 [000000] half right 2.037 (full 4.075)
+2019-03-02 16:19:13 [000000] half forward 1.488 (full 2.975)
+2019-03-02 16:19:13 [000000] loaded play rect area
+2019-03-02 16:19:13 [000000] update tracking devices
+2019-03-02 16:19:13 [000000] model : 
+2019-03-02 16:19:13 [000000] model : 
+2019-03-02 16:19:13 [000000] is ok?
+2019-03-02 16:19:13 [000000] initialising video...
+2019-03-02 16:19:14 [000000] open gl: 4.6.0 NVIDIA 418.81
+2019-03-02 16:19:14 [000000] version: 4.6
+2019-03-02 16:19:14 [000000] vendor: NVIDIA Corporation
+2019-03-02 16:19:14 [000000] renderer : GeForce GTX 1080 Ti/PCIe/SSE2
+2019-03-02 16:19:14 [000000] initialising sound...
+2019-03-02 16:19:14 [000000] using preferred audio device "Headphones (Rift Audio)"
+2019-03-02 16:19:14 [000000] systems initialised
+2019-03-02 16:19:14 [000000] jobs:
+2019-03-02 16:19:14 [000000]  game           :   8
+2019-03-02 16:19:14 [000000]  render         :   1
+2019-03-02 16:19:14 [000000]  system         :   1
+2019-03-02 16:19:14 [000000]  prepare render :   8
+2019-03-02 16:19:14 [000000]  sound          :   8
+2019-03-02 16:19:14 [000000]  background     :   1
+2019-03-02 16:19:14 [000000]  worker         :   8
+2019-03-02 16:19:14 [000000]  async worker   :   7
+2019-03-02 16:19:14 [000000]  loading worker :   7
+2019-03-02 16:19:15 [000000] room generator: using vr
+2019-03-02 16:19:15 [000000] play area rect size: 4.07m x 2.98m
+2019-03-02 16:19:15 [000000] tile size: 0.74m
+2019-03-02 16:19:15 [000000] tile count: 5 x 4
+2019-03-02 16:19:15 [000000] [warning] enabling/disabling bounds rendering not supported yet
+2019-03-02 16:19:15 [000000] load shader program cache
+2019-03-02 16:19:15 [000000] load library "system"...
+2019-03-02 16:19:17 [000238] library "system" loaded and prepared for game (2.8s)
+2019-03-02 16:19:18 [000280] load library "library"...
+2019-03-02 16:19:18 [000280] [ERROR] problem while loading from directiores
+2019-03-02 16:19:18 [000280] [ERROR] error loading library
+2019-03-02 16:19:18 [000281] tea library loaded!
+2019-03-02 16:19:18 [000359] closing library...
+2019-03-02 16:19:24 [000840] config saved
+2019-03-02 16:19:24 [000840] closing job system...
+2019-03-02 16:19:24 [000840] closing VR...
+2019-03-02 16:19:24 [000840] closing systems...
+2019-03-02 16:19:24 [000000] game ended
+2019-03-02 16:19:24 [000000] close low level systems...
+2019-03-02 16:19:24 [000000] ...framework
+2019-03-02 16:19:24 [000000] ...tools
+2019-03-02 16:19:24 [000000] ...core
+2019-03-02 16:19:24 [000000] closing SDL...
+2019-03-02 16:19:24 [000000] closed SDL
+2019-03-02 16:19:24 [000000] EOL
+2019-03-02 16:19:24 [000000] 
+2019-03-02 16:19:24 [000000] 
+2019-03-02 16:19:24 [000000] FAULT!
+2019-03-02 16:19:24 [000000]    code: C0000005: access violation
+2019-03-02 16:19:24 [000000] address: 5E826546
+2019-03-02 16:19:24 [000000]   flags: 00000000
+2019-03-02 16:19:24 [000000] 00 : 5E826546 : SymInitialize failed: 87 [80 F9 CF 00 EE 00 D8 60 01 00 00 00]
+2019-03-02 16:19:24 [000000] 01 : 5E8269CF : SymInitialize failed: 87 [00 00 78 5E 00 00 00 00 01 00 00 00 63 6B 32 B1 60 28 AB 5E]
+2019-03-02 16:19:24 [000000] 02 : 5EAB27A1 : SymInitialize failed: 87 [00 00 78 5E 00 00 00 00 01 00 00 00]
+2019-03-02 16:19:24 [000000] 03 : 5EAB287C : SymInitialize failed: 87 [00 00 78 5E 00 00 00 00 01 00 00 00 00 00 00 00 60 28 AB 5E]
+2019-03-02 16:19:24 [000000] 04 : 7791A896 : SymInitialize failed: 87 [60 28 AB 5E 00 00 78 5E 00 00 00 00 01 00 00 00 FD 04 66 45]
+2019-03-02 16:19:24 [000000] 05 : 778F01A6 : SymInitialize failed: 87 [00 00 00 00 01 00 00 00 55 07 66 45 A0 79 9C 77 00 00 00 00]
+2019-03-02 16:19:24 [000000] 06 : 778E458D : SymInitialize failed: 87 [00 00 00 00 00 00 00 00 00 70 B3 00 28 FB CF 00 00 00 00 00]
+2019-03-02 16:19:24 [000000] 07 : 778E4485 : SymInitialize failed: 87 [00 00 00 00 B0 F3 E8 77 FF FF FF FF]
+2019-03-02 16:19:24 [000000] 08 : 74423A23 : SymInitialize failed: 87 [00 00 00 00 00 00 00 00 60 52 E8 76 00 00 00 00 84 FB CF 00]
+2019-03-02 16:19:24 [000000] 09 : 76E8528A : SymInitialize failed: 87 [00 00 00 00]
+2019-03-02 16:19:24 [000000] 10 : 76E85201 : SymInitialize failed: 87 [00 00 00 00 B4 4F AA 4A 39 58 57 01 39 58 57 01 00 70 B3 00]
+2019-03-02 16:19:24 [000000] 11 : 015757D8 : SymInitialize failed: 87 [00 70 B3 00 60 84 42 74 88 01 5D 40]
+2019-03-02 16:19:24 [000000] 12 : 74428484 : SymInitialize failed: 87 [00 70 B3 00 11 01 66 45 00 00 00 00 00 00 00 00 00 70 B3 00]
+2019-03-02 16:19:24 [000000] 13 : 779141C8 : SymInitialize failed: 87 [FF FF FF FF 46 F3 92 77]
+2019-03-02 16:19:24 [000000] 14 : 77914198 : SymInitialize failed: 87 []
