@@ -1,0 +1,1024 @@
+2019-03-04 20:59:14 [000000] tea for god
+2019-03-04 20:59:14 [000000] by void room (2016-2018)
+2019-03-04 20:59:14 [000000] build: v0.3.3 (#169) built on: Mar  4 2019, 15:03:54
+2019-03-04 20:59:14 [000000] load code info
+2019-03-04 20:59:15 [000000] loading settings...
+2019-03-04 20:59:15 [000000] initialising VR...
+2019-03-04 20:59:15 [000000] choose oculus
+2019-03-04 20:59:15 [000000] initialising oculus
+2019-03-04 20:59:15 [000000] create device
+2019-03-04 20:59:16 [000000] device : Oculus Rift CV1
+2019-03-04 20:59:16 [000000] check load play area rect
+2019-03-04 20:59:16 [000000] half right 2.037 (full 4.075)
+2019-03-04 20:59:16 [000000] half forward 1.488 (full 2.975)
+2019-03-04 20:59:16 [000000] loaded play rect area
+2019-03-04 20:59:16 [000000] update tracking devices
+2019-03-04 20:59:16 [000000] model : 
+2019-03-04 20:59:16 [000000] model : 
+2019-03-04 20:59:16 [000000] is ok?
+2019-03-04 20:59:16 [000000] initialising video...
+2019-03-04 20:59:16 [000000] open gl: 4.6.0 NVIDIA 418.81
+2019-03-04 20:59:16 [000000] version: 4.6
+2019-03-04 20:59:16 [000000] vendor: NVIDIA Corporation
+2019-03-04 20:59:16 [000000] renderer : GeForce GTX 1080 Ti/PCIe/SSE2
+2019-03-04 20:59:17 [000000] initialising sound...
+2019-03-04 20:59:17 [000000] using preferred audio device "Headphones (Rift Audio)"
+2019-03-04 20:59:17 [000000] systems initialised
+2019-03-04 20:59:17 [000000] jobs:
+2019-03-04 20:59:17 [000000]  game           :   8
+2019-03-04 20:59:17 [000000]  render         :   1
+2019-03-04 20:59:17 [000000]  system         :   1
+2019-03-04 20:59:17 [000000]  prepare render :   8
+2019-03-04 20:59:17 [000000]  sound          :   8
+2019-03-04 20:59:17 [000000]  background     :   1
+2019-03-04 20:59:17 [000000]  worker         :   8
+2019-03-04 20:59:17 [000000]  async worker   :   7
+2019-03-04 20:59:17 [000000]  loading worker :   7
+2019-03-04 20:59:17 [000000] room generator: using vr
+2019-03-04 20:59:17 [000000] play area rect size: 4.07m x 2.98m
+2019-03-04 20:59:17 [000000] tile size: 0.74m
+2019-03-04 20:59:17 [000000] tile count: 5 x 4
+2019-03-04 20:59:17 [000000] [warning] enabling/disabling bounds rendering not supported yet
+2019-03-04 20:59:17 [000000] load shader program cache
+2019-03-04 20:59:17 [000000] load library "system"...
+2019-03-04 20:59:20 [000239] library "system" loaded and prepared for game (2.9s)
+2019-03-04 20:59:21 [000280] load library "library"...
+2019-03-04 20:59:22 [000337] [warning in XML] library/weapons\pistol.cx at 26 : frequency should be greater than zero
+2019-03-04 20:59:22 [000337] [warning in XML] library/weapons\shotgun.cx at 24 : frequency should be greater than zero
+2019-03-04 20:59:22 [000337] [warning in XML] library/weapons\shotgun.cx at 25 : frequency should be greater than zero
+2019-03-04 20:59:22 [000339] [warning in XML] library/weapons\submachine gun.cx at 91 : frequency should be greater than zero
+2019-03-04 20:59:25 [000603] library "library" loaded and prepared for game (4.1s)
+2019-03-04 20:59:25 [000604] tea library loaded!
+2019-03-04 20:59:25 [000607] using random generator 1551761965, 0
+2019-03-04 20:59:25 [000607] part idx 0
+2019-03-04 20:59:25 [000607] start pilgrimage with seed 1551761965, 0
+2019-03-04 20:59:25 [000609] room generator: using vr
+2019-03-04 20:59:25 [000609] play area rect size: 4.07m x 2.98m
+2019-03-04 20:59:25 [000609] tile size: 0.74m
+2019-03-04 20:59:25 [000609] tile count: 5 x 4
+2019-03-04 20:59:25 [000612] generating room 
+2019-03-04 20:59:25 [000612] generating using room type stations:station 02
+2019-03-04 20:59:25 [000612] generated in 0.038s
+2019-03-04 20:59:25 [000612] generating room beyond door room 0 "stations:station 02 temple"
+2019-03-04 20:59:25 [000612] generating using room type stations:station 02 temple
+2019-03-04 20:59:25 [000614] generated in 0.050s
+2019-03-04 21:00:01 [003802] [warning] HITCH FRAME TIME 34.620ms (expected 11.111ms)
+2019-03-04 21:00:01 [003803] create next part...
+2019-03-04 21:00:01 [003803] seed 1551761965, 0
+2019-03-04 21:00:01 [003803] part idx 0:0
+2019-03-04 21:00:01 [003803] generating room 
+2019-03-04 21:00:01 [003803] generating using room type stations:station 00
+2019-03-04 21:00:01 [003807] generated in 0.037s
+2019-03-04 21:00:01 [003807] create region...
+2019-03-04 21:00:01 [003807] create station entrance/exit rooms...
+2019-03-04 21:00:01 [003807] generate region using rg 1551761965, 0
+2019-03-04 21:00:01 [003807] generating room 
+2019-03-04 21:00:01 [003807] generating using room type testVR:in the city
+2019-03-04 21:00:01 [003808] generated in 0.011s
+2019-03-04 21:00:01 [003808] generating room 
+2019-03-04 21:00:01 [003808] generating using room type stations:exit
+2019-03-04 21:00:01 [003809] generated in 0.003s
+2019-03-04 21:00:01 [003809] generating room 
+2019-03-04 21:00:01 [003809] generating using room type stations:entrance
+2019-03-04 21:00:01 [003809] generated in 0.003s
+2019-03-04 21:00:01 [003809] generating room 
+2019-03-04 21:00:01 [003809] generating using room type places, maze:mazeRoom empty
+2019-03-04 21:00:01 [003809] generated in 0.003s
+2019-03-04 21:00:01 [003809] generating room vr corridor 1
+2019-03-04 21:00:01 [003809] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:01 [003809] choose for corridor from:
+2019-03-04 21:00:01 [003809]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:01 [003809]    places, maze:maze vr corridor
+2019-03-04 21:00:01 [003809]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:00:01 [003809]    places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003809] choose "places, maze:maze vr corridor in a shaft" for corridor (through world setting condition)
+2019-03-04 21:00:01 [003809] generating using room type places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003813] generated in 0.046s
+2019-03-04 21:00:01 [003813] generating room 
+2019-03-04 21:00:01 [003813] generating using room type places, maze:mazeRoom
+2019-03-04 21:00:01 [003813] generated in 0.003s
+2019-03-04 21:00:01 [003813] generating room 
+2019-03-04 21:00:01 [003813] generating using room type places, maze:mazeRoom empty
+2019-03-04 21:00:01 [003813] generated in 0.003s
+2019-03-04 21:00:01 [003814] generating room vr corridor 2
+2019-03-04 21:00:01 [003814] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:01 [003814] choose for corridor from:
+2019-03-04 21:00:01 [003814]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:01 [003814]    places, maze:maze vr corridor
+2019-03-04 21:00:01 [003814]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:00:01 [003814]    places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003814] choose "places, maze:maze vr corridor in a shaft" for corridor (through world setting condition)
+2019-03-04 21:00:01 [003814] generating using room type places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003817] generated in 0.042s
+2019-03-04 21:00:01 [003817] generating room 
+2019-03-04 21:00:01 [003817] generating using room type places, maze:mazeRoom rooftop
+2019-03-04 21:00:01 [003819] generated in 0.017s
+2019-03-04 21:00:01 [003819] generating room 
+2019-03-04 21:00:01 [003819] generating using room type places, maze:mazeRoom
+2019-03-04 21:00:01 [003819] generated in 0.004s
+2019-03-04 21:00:01 [003819] generating room vr corridor 3
+2019-03-04 21:00:01 [003819] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:01 [003819] choose for corridor from:
+2019-03-04 21:00:01 [003819]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:01 [003819]    places, maze:maze vr corridor
+2019-03-04 21:00:01 [003819]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:00:01 [003819]    places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003819] choose "places, maze:maze vr corridor in a shaft" for corridor (through world setting condition)
+2019-03-04 21:00:01 [003819] generating using room type places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003824] generated in 0.053s
+2019-03-04 21:00:01 [003824] generating room 
+2019-03-04 21:00:01 [003824] generating using room type places, maze:mazeRoom
+2019-03-04 21:00:01 [003824] generated in 0.003s
+2019-03-04 21:00:01 [003824] generating room 
+2019-03-04 21:00:01 [003824] generating using room type places, maze:mazeRoom
+2019-03-04 21:00:01 [003824] generated in 0.003s
+2019-03-04 21:00:01 [003824] generating room vr corridor 4
+2019-03-04 21:00:01 [003824] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:01 [003824] choose for corridor from:
+2019-03-04 21:00:01 [003824]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:01 [003824]    places, maze:maze vr corridor
+2019-03-04 21:00:01 [003824]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:00:01 [003824]    places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003824] choose "places, maze:maze vr corridor in a shaft" for corridor (through world setting condition)
+2019-03-04 21:00:01 [003824] generating using room type places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003828] generated in 0.043s
+2019-03-04 21:00:01 [003828] generating room vr corridor 5
+2019-03-04 21:00:01 [003828] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:01 [003828] choose for corridor from:
+2019-03-04 21:00:01 [003828]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:01 [003828]    places, maze:maze vr corridor
+2019-03-04 21:00:01 [003828]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:00:01 [003828]    places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003828] choose "places, maze:maze vr corridor in a shaft" for corridor (through world setting condition)
+2019-03-04 21:00:01 [003828] generating using room type places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003833] generated in 0.056s
+2019-03-04 21:00:01 [003833] generating room vr corridor 6
+2019-03-04 21:00:01 [003833] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:01 [003833] choose for corridor from:
+2019-03-04 21:00:01 [003833]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:01 [003833]    places, maze:maze vr corridor
+2019-03-04 21:00:01 [003833]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:00:01 [003833]    places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003833] choose "places, maze:maze vr corridor in a shaft" for corridor (through world setting condition)
+2019-03-04 21:00:01 [003833] generating using room type places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:01 [003838] generated in 0.055s
+2019-03-04 21:00:01 [003838] generating room 
+2019-03-04 21:00:01 [003838] generating using room type places, balconies:balconies main room
+2019-03-04 21:00:01 [003839] generated in 0.015s
+2019-03-04 21:00:01 [003839] generating room vr corridor 7
+2019-03-04 21:00:01 [003839] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:01 [003840] generated in 0.004s
+2019-03-04 21:00:01 [003840] generating room 
+2019-03-04 21:00:01 [003840] generating using room type places, towers:towers
+2019-03-04 21:00:02 [003901] generated in 0.681s
+2019-03-04 21:00:02 [003901] generating room vr corridor 8
+2019-03-04 21:00:02 [003901] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003902] generated in 0.009s
+2019-03-04 21:00:02 [003902] generating room vr corridor 9
+2019-03-04 21:00:02 [003902] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003902] generated in 0.002s
+2019-03-04 21:00:02 [003902] generating room 
+2019-03-04 21:00:02 [003902] generating using room type places, balconies:balconies passage room
+2019-03-04 21:00:02 [003902] generated in 0.005s
+2019-03-04 21:00:02 [003903] generating room vr corridor 10
+2019-03-04 21:00:02 [003903] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003903] generated in 0.004s
+2019-03-04 21:00:02 [003903] generating room vr corridor 11
+2019-03-04 21:00:02 [003903] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003904] generated in 0.009s
+2019-03-04 21:00:02 [003904] generating room 
+2019-03-04 21:00:02 [003904] generating using room type places, balconies:balconies passage room
+2019-03-04 21:00:02 [003904] generated in 0.004s
+2019-03-04 21:00:02 [003904] generating room vr corridor 12
+2019-03-04 21:00:02 [003904] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003904] generated in 0.004s
+2019-03-04 21:00:02 [003904] generating room vr corridor 13
+2019-03-04 21:00:02 [003904] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003905] generated in 0.004s
+2019-03-04 21:00:02 [003905] generating room 
+2019-03-04 21:00:02 [003905] generating using room type places, balconies:balconies passage room
+2019-03-04 21:00:02 [003905] generated in 0.003s
+2019-03-04 21:00:02 [003905] generating room vr corridor 14
+2019-03-04 21:00:02 [003905] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003906] generated in 0.007s
+2019-03-04 21:00:02 [003906] generating room 
+2019-03-04 21:00:02 [003906] generating using room type places, balconies:balconies passage room
+2019-03-04 21:00:02 [003906] generated in 0.004s
+2019-03-04 21:00:02 [003906] generating room vr corridor 15
+2019-03-04 21:00:02 [003906] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003906] generated in 0.004s
+2019-03-04 21:00:02 [003906] generating room vr corridor 16
+2019-03-04 21:00:02 [003906] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003907] generated in 0.003s
+2019-03-04 21:00:02 [003907] generating room 
+2019-03-04 21:00:02 [003907] generating using room type places, balconies:balconies passage room
+2019-03-04 21:00:02 [003907] generated in 0.003s
+2019-03-04 21:00:02 [003907] generating room vr corridor 17
+2019-03-04 21:00:02 [003907] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003908] generated in 0.007s
+2019-03-04 21:00:02 [003908] generating room 
+2019-03-04 21:00:02 [003908] generating using room type places, balconies:balconies passage room
+2019-03-04 21:00:02 [003908] generated in 0.003s
+2019-03-04 21:00:02 [003908] generating room vr corridor 18
+2019-03-04 21:00:02 [003908] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003908] generated in 0.005s
+2019-03-04 21:00:02 [003908] generating room vr corridor 19
+2019-03-04 21:00:02 [003908] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003909] generated in 0.011s
+2019-03-04 21:00:02 [003909] generating room 
+2019-03-04 21:00:02 [003909] generating using room type places, towers:towers passage room
+2019-03-04 21:00:02 [003910] generated in 0.002s
+2019-03-04 21:00:02 [003910] generating room vr corridor 20
+2019-03-04 21:00:02 [003910] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003910] generated in 0.004s
+2019-03-04 21:00:02 [003910] generating room vr corridor 21
+2019-03-04 21:00:02 [003910] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003910] generated in 0.002s
+2019-03-04 21:00:02 [003910] generating room 
+2019-03-04 21:00:02 [003910] generating using room type places, towers:towers passage room
+2019-03-04 21:00:02 [003910] generated in 0.003s
+2019-03-04 21:00:02 [003910] generating room vr corridor 22
+2019-03-04 21:00:02 [003910] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003911] generated in 0.003s
+2019-03-04 21:00:02 [003911] generating room vr corridor 23
+2019-03-04 21:00:02 [003911] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003911] generated in 0.002s
+2019-03-04 21:00:02 [003911] generating room 
+2019-03-04 21:00:02 [003911] generating using room type places, towers:towers passage room
+2019-03-04 21:00:02 [003911] generated in 0.002s
+2019-03-04 21:00:02 [003911] generating room vr corridor 24
+2019-03-04 21:00:02 [003911] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003911] generated in 0.003s
+2019-03-04 21:00:02 [003911] generating room vr corridor 25
+2019-03-04 21:00:02 [003911] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003912] generated in 0.004s
+2019-03-04 21:00:02 [003912] generating room 
+2019-03-04 21:00:02 [003912] generating using room type places, towers:towers passage room
+2019-03-04 21:00:02 [003912] generated in 0.002s
+2019-03-04 21:00:02 [003912] generating room vr corridor 26
+2019-03-04 21:00:02 [003912] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003912] generated in 0.003s
+2019-03-04 21:00:02 [003912] generating room vr corridor 27
+2019-03-04 21:00:02 [003912] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003912] generated in 0.002s
+2019-03-04 21:00:02 [003912] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:00:02 [003912] generating using room type testVR:view onto the city
+2019-03-04 21:00:02 [003912] generated in 0.000s
+2019-03-04 21:00:02 [003912] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:00:02 [003912] generating using room type testVR:view onto the city
+2019-03-04 21:00:02 [003912] generated in 0.000s
+2019-03-04 21:00:02 [003913] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:00:02 [003913] generating using room type testVR:view onto the city
+2019-03-04 21:00:02 [003913] generated in 0.000s
+2019-03-04 21:00:02 [003913] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:00:02 [003913] generating using room type testVR:view onto the city
+2019-03-04 21:00:02 [003913] generated in 0.000s
+2019-03-04 21:00:02 [003913] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:00:02 [003913] generating using room type testVR:view onto the city
+2019-03-04 21:00:02 [003913] generated in 0.000s
+2019-03-04 21:00:02 [003913] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:00:02 [003913] generating using room type testVR:view onto the city
+2019-03-04 21:00:02 [003913] generated in 0.000s
+2019-03-04 21:00:02 [003913] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:00:02 [003913] generating using room type testVR:view onto the city
+2019-03-04 21:00:02 [003913] generated in 0.000s
+2019-03-04 21:00:02 [003913] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:00:02 [003913] generating using room type testVR:view onto the city
+2019-03-04 21:00:02 [003913] generated in 0.000s
+2019-03-04 21:00:02 [003913] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:00:02 [003913] generating using room type testVR:view onto the city
+2019-03-04 21:00:02 [003913] generated in 0.000s
+2019-03-04 21:00:02 [003913] generating room vr corridor 28
+2019-03-04 21:00:02 [003913] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:02 [003913] choose for corridor from:
+2019-03-04 21:00:02 [003913]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:02 [003913]    places, maze:maze vr corridor
+2019-03-04 21:00:02 [003913] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:00:02 [003913] generating using room type places, maze:maze vr corridor
+2019-03-04 21:00:02 [003913] generated in 0.006s
+2019-03-04 21:00:02 [003913] generating room vr corridor 29
+2019-03-04 21:00:02 [003913] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:02 [003913] choose for corridor from:
+2019-03-04 21:00:02 [003913]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:02 [003913]    places, maze:maze vr corridor
+2019-03-04 21:00:02 [003913] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:00:02 [003913] generating using room type places, maze:maze vr corridor
+2019-03-04 21:00:02 [003913] generated in 0.002s
+2019-03-04 21:00:02 [003914] generating room vr corridor 30
+2019-03-04 21:00:02 [003914] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:02 [003914] choose for corridor from:
+2019-03-04 21:00:02 [003914]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:02 [003914]    places, maze:maze vr corridor
+2019-03-04 21:00:02 [003914] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:00:02 [003914] generating using room type places, maze:maze vr corridor
+2019-03-04 21:00:02 [003915] generated in 0.011s
+2019-03-04 21:00:02 [003915] generating room vr corridor 31
+2019-03-04 21:00:02 [003915] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:02 [003915] choose for corridor from:
+2019-03-04 21:00:02 [003915]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:02 [003915]    places, maze:maze vr corridor
+2019-03-04 21:00:02 [003915] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:00:02 [003915] generating using room type places, maze:maze vr corridor
+2019-03-04 21:00:02 [003915] generated in 0.002s
+2019-03-04 21:00:02 [003915] generating room vr corridor 32
+2019-03-04 21:00:02 [003915] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:02 [003915] choose for corridor from:
+2019-03-04 21:00:02 [003915]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:02 [003915]    places, maze:maze vr corridor
+2019-03-04 21:00:02 [003915] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:00:02 [003915] generating using room type places, maze:maze vr corridor
+2019-03-04 21:00:02 [003915] generated in 0.002s
+2019-03-04 21:00:02 [003915] generating room vr corridor 33
+2019-03-04 21:00:02 [003915] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:02 [003915] choose for corridor from:
+2019-03-04 21:00:02 [003915]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:02 [003915]    places, maze:maze vr corridor
+2019-03-04 21:00:02 [003915]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:00:02 [003915]    places, maze:maze vr corridor in a shaft
+2019-03-04 21:00:02 [003915] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:00:02 [003915] generating using room type places, maze:maze vr corridor
+2019-03-04 21:00:02 [003916] generated in 0.010s
+2019-03-04 21:00:02 [003916] generating room vr corridor 34
+2019-03-04 21:00:02 [003916] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:02 [003916] choose for corridor from:
+2019-03-04 21:00:02 [003916]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:02 [003916]    places, maze:maze vr corridor
+2019-03-04 21:00:02 [003916] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:00:02 [003916] generating using room type places, maze:maze vr corridor
+2019-03-04 21:00:02 [003917] generated in 0.009s
+2019-03-04 21:00:02 [003917] generating room vr corridor 35
+2019-03-04 21:00:02 [003917] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003918] generated in 0.018s
+2019-03-04 21:00:02 [003918] generating room vr corridor 36
+2019-03-04 21:00:02 [003918] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:02 [003918] choose for corridor from:
+2019-03-04 21:00:02 [003918]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:02 [003918]    places, maze:maze vr corridor
+2019-03-04 21:00:02 [003918] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:00:02 [003918] generating using room type places, maze:maze vr corridor
+2019-03-04 21:00:02 [003918] generated in 0.002s
+2019-03-04 21:00:02 [003919] generating room vr corridor 37
+2019-03-04 21:00:02 [003919] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:00:02 [003919] choose for corridor from:
+2019-03-04 21:00:02 [003919]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:00:02 [003919]    places, maze:maze vr corridor
+2019-03-04 21:00:02 [003919] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:00:02 [003919] generating using room type places, maze:maze vr corridor
+2019-03-04 21:00:02 [003920] generated in 0.012s
+2019-03-04 21:00:02 [003920] generating room vr corridor 38
+2019-03-04 21:00:02 [003920] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003920] generated in 0.004s
+2019-03-04 21:00:02 [003920] generating room vr corridor 39
+2019-03-04 21:00:02 [003920] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003921] generated in 0.006s
+2019-03-04 21:00:02 [003921] generating room vr corridor 40
+2019-03-04 21:00:02 [003921] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003921] generated in 0.010s
+2019-03-04 21:00:02 [003921] generating room vr corridor 41
+2019-03-04 21:00:02 [003921] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003922] generated in 0.005s
+2019-03-04 21:00:02 [003922] generating room vr corridor 42
+2019-03-04 21:00:02 [003922] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003923] generated in 0.008s
+2019-03-04 21:00:02 [003923] generating room vr corridor 43
+2019-03-04 21:00:02 [003923] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003923] generated in 0.008s
+2019-03-04 21:00:02 [003923] generating room vr corridor 44
+2019-03-04 21:00:02 [003923] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003924] generated in 0.008s
+2019-03-04 21:00:02 [003924] generating room vr corridor 45
+2019-03-04 21:00:02 [003924] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003925] generated in 0.011s
+2019-03-04 21:00:02 [003925] generating room vr corridor 46
+2019-03-04 21:00:02 [003925] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003926] generated in 0.004s
+2019-03-04 21:00:02 [003926] generating room vr corridor 47
+2019-03-04 21:00:02 [003926] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003927] generated in 0.010s
+2019-03-04 21:00:02 [003927] generating room vr corridor 48
+2019-03-04 21:00:02 [003927] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003928] generated in 0.012s
+2019-03-04 21:00:02 [003928] generating room vr corridor 49
+2019-03-04 21:00:02 [003928] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003928] generated in 0.007s
+2019-03-04 21:00:02 [003928] generating room vr corridor 50
+2019-03-04 21:00:02 [003928] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003930] generated in 0.016s
+2019-03-04 21:00:02 [003930] generating room vr corridor 51
+2019-03-04 21:00:02 [003930] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003931] generated in 0.014s
+2019-03-04 21:00:02 [003931] generating room vr corridor 52
+2019-03-04 21:00:02 [003931] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003932] generated in 0.007s
+2019-03-04 21:00:02 [003932] generating room vr corridor 53
+2019-03-04 21:00:02 [003932] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:02 [003932] generated in 0.004s
+2019-03-04 21:00:02 [003932] generating room vr corridor 54
+2019-03-04 21:00:02 [003932] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003933] generated in 0.003s
+2019-03-04 21:00:02 [003933] generating room vr corridor 55
+2019-03-04 21:00:02 [003933] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003933] generated in 0.003s
+2019-03-04 21:00:02 [003933] generating room vr corridor 56
+2019-03-04 21:00:02 [003933] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003933] generated in 0.002s
+2019-03-04 21:00:02 [003933] generating room vr corridor 57
+2019-03-04 21:00:02 [003933] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003933] generated in 0.003s
+2019-03-04 21:00:02 [003933] generating room vr corridor 58
+2019-03-04 21:00:02 [003933] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:02 [003934] generated in 0.003s
+2019-03-04 21:00:02 [003934] generating room vr corridor 59 (elevator)
+2019-03-04 21:00:02 [003934] generating using room type places, towers:towers door vr elevator
+2019-03-04 21:00:03 [003985] generated in 0.575s
+2019-03-04 21:00:03 [003986] generating room vr corridor 59 (elevator) (entrance 1)
+2019-03-04 21:00:03 [003986] generating using room type places, towers:towers door vr elevator floor
+2019-03-04 21:00:03 [003986] generated in 0.002s
+2019-03-04 21:00:03 [003986] generating room vr corridor 60
+2019-03-04 21:00:03 [003986] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:03 [003986] generated in 0.003s
+2019-03-04 21:00:03 [003986] generating room vr corridor 59 (elevator) (entrance 0)
+2019-03-04 21:00:03 [003986] generating using room type places, towers:towers door vr elevator floor
+2019-03-04 21:00:03 [003986] generated in 0.001s
+2019-03-04 21:00:03 [003986] generating room vr corridor 61
+2019-03-04 21:00:03 [003986] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:03 [003986] generated in 0.002s
+2019-03-04 21:00:03 [003986] generating room vr corridor 62
+2019-03-04 21:00:03 [003986] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:03 [003987] generated in 0.003s
+2019-03-04 21:00:03 [003987] generating room vr corridor 63
+2019-03-04 21:00:03 [003987] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:03 [003987] generated in 0.004s
+2019-03-04 21:00:03 [003987] generating room vr corridor 64
+2019-03-04 21:00:03 [003987] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:03 [003987] generated in 0.002s
+2019-03-04 21:00:03 [003987] generating room vr corridor 65
+2019-03-04 21:00:03 [003987] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:03 [003988] generated in 0.004s
+2019-03-04 21:00:03 [003988] generating room vr corridor 66
+2019-03-04 21:00:03 [003988] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:03 [003988] generated in 0.003s
+2019-03-04 21:00:03 [003988] generating room vr corridor 67
+2019-03-04 21:00:03 [003988] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:03 [003988] generated in 0.003s
+2019-03-04 21:00:03 [003988] generating room vr corridor 68
+2019-03-04 21:00:03 [003988] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:00:03 [003989] generated in 0.003s
+2019-03-04 21:00:03 [003989] generating room vr corridor 69
+2019-03-04 21:00:03 [003989] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:00:03 [003990] generated in 0.010s
+2019-03-04 21:00:03 [003990] generated current region in 2.04s
+2019-03-04 21:00:03 [003990] should cancel next part!
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003990]   polygonNormalIssue
+2019-03-04 21:00:03 [003999] created next region in 2.18s
+2019-03-04 21:00:03 [003999] started removal of unused temporary objects
+2019-03-04 21:00:03 [003999] ended removal of unused temporary objects (removed: 0)
+2019-03-04 21:00:03 [003999] library - loaded 2031 objects
+2019-03-04 21:00:05 [004188] [ERROR] no skinning data created using "npcs:proximity mine", may have degenerated vertices after transform
+2019-03-04 21:00:12 [004797] [ERROR] no skinning data created using "npcs:proximity mine", may have degenerated vertices after transform
+2019-03-04 21:00:18 [005339] [ERROR] no skinning data created using "npcs:proximity mine", may have degenerated vertices after transform
+2019-03-04 21:00:18 [005349] [ERROR] no skinning data created using "npcs:proximity mine", may have degenerated vertices after transform
+2019-03-04 21:00:18 [005356] [ERROR] no skinning data created using "npcs:proximity mine", may have degenerated vertices after transform
+2019-03-04 21:01:17 [010679] using random generator 1551762077, 0
+2019-03-04 21:01:17 [010679] part idx 0
+2019-03-04 21:01:17 [010679] start pilgrimage with seed 1551762077, 0
+2019-03-04 21:01:17 [010681] room generator: using vr
+2019-03-04 21:01:17 [010681] play area rect size: 4.07m x 2.98m
+2019-03-04 21:01:17 [010681] tile size: 0.74m
+2019-03-04 21:01:17 [010681] tile count: 5 x 4
+2019-03-04 21:01:17 [010691] generating room 
+2019-03-04 21:01:17 [010691] generating using room type stations:station 02
+2019-03-04 21:01:17 [010694] generated in 0.039s
+2019-03-04 21:01:17 [010694] generating room beyond door room 0 "stations:station 02 temple"
+2019-03-04 21:01:17 [010694] generating using room type stations:station 02 temple
+2019-03-04 21:01:17 [010699] generated in 0.050s
+2019-03-04 21:01:19 [010827] [warning] HITCH FRAME TIME 29.782ms (expected 11.111ms)
+2019-03-04 21:01:19 [010828] create next part...
+2019-03-04 21:01:19 [010828] seed 1551762077, 0
+2019-03-04 21:01:19 [010828] part idx 0:0
+2019-03-04 21:01:19 [010828] generating room 
+2019-03-04 21:01:19 [010828] generating using room type stations:station 00
+2019-03-04 21:01:19 [010831] generated in 0.036s
+2019-03-04 21:01:19 [010831] create region...
+2019-03-04 21:01:19 [010831] create station entrance/exit rooms...
+2019-03-04 21:01:19 [010831] generate region using rg 1551762077, 0
+2019-03-04 21:01:19 [010831] generating room 
+2019-03-04 21:01:19 [010831] generating using room type testVR:in the city
+2019-03-04 21:01:19 [010831] generated in 0.006s
+2019-03-04 21:01:19 [010833] generating room 
+2019-03-04 21:01:19 [010833] generating using room type stations:exit
+2019-03-04 21:01:19 [010833] generated in 0.003s
+2019-03-04 21:01:19 [010833] generating room 
+2019-03-04 21:01:19 [010833] generating using room type stations:entrance
+2019-03-04 21:01:19 [010833] generated in 0.003s
+2019-03-04 21:01:19 [010833] generating room 
+2019-03-04 21:01:19 [010833] generating using room type places, maze:mazeRoom
+2019-03-04 21:01:19 [010834] generated in 0.004s
+2019-03-04 21:01:19 [010834] generating room vr corridor 70
+2019-03-04 21:01:19 [010834] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:19 [010834] choose for corridor from:
+2019-03-04 21:01:19 [010834]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:19 [010834]    places, maze:maze vr corridor
+2019-03-04 21:01:19 [010834]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:19 [010834]    won't be used because is empty!
+2019-03-04 21:01:19 [010834] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:19 [010834] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:19 [010834] generated in 0.005s
+2019-03-04 21:01:19 [010834] generating room 
+2019-03-04 21:01:19 [010834] generating using room type places, maze:mazeRoom
+2019-03-04 21:01:19 [010835] generated in 0.003s
+2019-03-04 21:01:19 [010835] generating room vr corridor 71
+2019-03-04 21:01:19 [010835] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:19 [010835] choose for corridor from:
+2019-03-04 21:01:19 [010835]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:19 [010835]    places, maze:maze vr corridor
+2019-03-04 21:01:19 [010835]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:19 [010835]    won't be used because is empty!
+2019-03-04 21:01:19 [010835] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:19 [010835] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:19 [010835] generated in 0.004s
+2019-03-04 21:01:19 [010835] generating room 
+2019-03-04 21:01:19 [010835] generating using room type places, maze:mazeRoom
+2019-03-04 21:01:19 [010835] generated in 0.003s
+2019-03-04 21:01:19 [010835] generating room vr corridor 72
+2019-03-04 21:01:19 [010835] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:19 [010835] choose for corridor from:
+2019-03-04 21:01:19 [010835]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:19 [010835]    places, maze:maze vr corridor
+2019-03-04 21:01:19 [010835]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:19 [010835]    won't be used because is empty!
+2019-03-04 21:01:19 [010835] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:19 [010835] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:19 [010836] generated in 0.008s
+2019-03-04 21:01:19 [010836] generating room 
+2019-03-04 21:01:19 [010836] generating using room type places, maze:mazeRoom
+2019-03-04 21:01:19 [010836] generated in 0.003s
+2019-03-04 21:01:19 [010836] generating room 
+2019-03-04 21:01:19 [010836] generating using room type places, maze:mazeRoom
+2019-03-04 21:01:19 [010837] generated in 0.003s
+2019-03-04 21:01:19 [010837] generating room vr corridor 73
+2019-03-04 21:01:19 [010837] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:19 [010837] choose for corridor from:
+2019-03-04 21:01:19 [010837]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:19 [010837]    places, maze:maze vr corridor
+2019-03-04 21:01:19 [010837]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:19 [010837]    won't be used because is empty!
+2019-03-04 21:01:19 [010837] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:19 [010837] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:19 [010837] generated in 0.003s
+2019-03-04 21:01:19 [010837] generating room vr corridor 74
+2019-03-04 21:01:19 [010837] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:19 [010837] choose for corridor from:
+2019-03-04 21:01:19 [010837]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:19 [010837]    places, maze:maze vr corridor
+2019-03-04 21:01:19 [010837]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:19 [010837]    won't be used because is empty!
+2019-03-04 21:01:19 [010837] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:19 [010837] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:19 [010837] generated in 0.005s
+2019-03-04 21:01:19 [010837] generating room 
+2019-03-04 21:01:19 [010837] generating using room type places, towers:towers
+2019-03-04 21:01:20 [010900] generated in 0.699s
+2019-03-04 21:01:20 [010900] generating room vr corridor 75
+2019-03-04 21:01:20 [010900] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:20 [010900] choose for corridor from:
+2019-03-04 21:01:20 [010900]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:20 [010900]    places, maze:maze vr corridor
+2019-03-04 21:01:20 [010900]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:20 [010900]    won't be used because is empty!
+2019-03-04 21:01:20 [010900] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:20 [010900] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:20 [010901] generated in 0.005s
+2019-03-04 21:01:20 [010901] generating room 
+2019-03-04 21:01:20 [010901] generating using room type places, balconies:balconies main room
+2019-03-04 21:01:20 [010902] generated in 0.013s
+2019-03-04 21:01:20 [010902] generating room vr corridor 76
+2019-03-04 21:01:20 [010902] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010902] generated in 0.003s
+2019-03-04 21:01:20 [010902] generating room vr corridor 77
+2019-03-04 21:01:20 [010902] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010903] generated in 0.006s
+2019-03-04 21:01:20 [010903] generating room 
+2019-03-04 21:01:20 [010903] generating using room type places, towers:towers passage room
+2019-03-04 21:01:20 [010903] generated in 0.002s
+2019-03-04 21:01:20 [010903] generating room vr corridor 78
+2019-03-04 21:01:20 [010903] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010903] generated in 0.004s
+2019-03-04 21:01:20 [010903] generating room vr corridor 79
+2019-03-04 21:01:20 [010903] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010904] generated in 0.003s
+2019-03-04 21:01:20 [010904] generating room 
+2019-03-04 21:01:20 [010904] generating using room type places, towers:towers passage room
+2019-03-04 21:01:20 [010904] generated in 0.003s
+2019-03-04 21:01:20 [010904] generating room vr corridor 80
+2019-03-04 21:01:20 [010904] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010904] generated in 0.002s
+2019-03-04 21:01:20 [010904] generating room vr corridor 81
+2019-03-04 21:01:20 [010904] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010905] generated in 0.004s
+2019-03-04 21:01:20 [010905] generating room 
+2019-03-04 21:01:20 [010905] generating using room type places, towers:towers passage room
+2019-03-04 21:01:20 [010905] generated in 0.001s
+2019-03-04 21:01:20 [010905] generating room vr corridor 82
+2019-03-04 21:01:20 [010905] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010905] generated in 0.002s
+2019-03-04 21:01:20 [010905] generating room 
+2019-03-04 21:01:20 [010905] generating using room type places, towers:towers passage room
+2019-03-04 21:01:20 [010905] generated in 0.002s
+2019-03-04 21:01:20 [010905] generating room vr corridor 83
+2019-03-04 21:01:20 [010905] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010905] generated in 0.004s
+2019-03-04 21:01:20 [010905] generating room vr corridor 84
+2019-03-04 21:01:20 [010905] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010906] generated in 0.003s
+2019-03-04 21:01:20 [010906] generating room 
+2019-03-04 21:01:20 [010906] generating using room type places, towers:towers passage room
+2019-03-04 21:01:20 [010906] generated in 0.001s
+2019-03-04 21:01:20 [010906] generating room vr corridor 85
+2019-03-04 21:01:20 [010906] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010906] generated in 0.003s
+2019-03-04 21:01:20 [010906] generating room 
+2019-03-04 21:01:20 [010906] generating using room type places, towers:towers passage room
+2019-03-04 21:01:20 [010906] generated in 0.002s
+2019-03-04 21:01:20 [010906] generating room vr corridor 86
+2019-03-04 21:01:20 [010906] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010906] generated in 0.002s
+2019-03-04 21:01:20 [010907] generating room vr corridor 87
+2019-03-04 21:01:20 [010907] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010907] generated in 0.002s
+2019-03-04 21:01:20 [010907] generating room 
+2019-03-04 21:01:20 [010907] generating using room type places, balconies:balconies passage room
+2019-03-04 21:01:20 [010907] generated in 0.004s
+2019-03-04 21:01:20 [010907] generating room vr corridor 88
+2019-03-04 21:01:20 [010907] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010908] generated in 0.011s
+2019-03-04 21:01:20 [010908] generating room vr corridor 89
+2019-03-04 21:01:20 [010908] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010909] generated in 0.008s
+2019-03-04 21:01:20 [010909] generating room 
+2019-03-04 21:01:20 [010909] generating using room type places, balconies:balconies passage room
+2019-03-04 21:01:20 [010909] generated in 0.003s
+2019-03-04 21:01:20 [010909] generating room vr corridor 90
+2019-03-04 21:01:20 [010909] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010910] generated in 0.012s
+2019-03-04 21:01:20 [010910] generating room 
+2019-03-04 21:01:20 [010910] generating using room type places, balconies:balconies passage room
+2019-03-04 21:01:20 [010911] generated in 0.004s
+2019-03-04 21:01:20 [010911] generating room vr corridor 91
+2019-03-04 21:01:20 [010911] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010911] generated in 0.006s
+2019-03-04 21:01:20 [010911] generating room vr corridor 92
+2019-03-04 21:01:20 [010911] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010912] generated in 0.005s
+2019-03-04 21:01:20 [010912] generating room 
+2019-03-04 21:01:20 [010912] generating using room type places, balconies:balconies passage room
+2019-03-04 21:01:20 [010912] generated in 0.004s
+2019-03-04 21:01:20 [010912] generating room vr corridor 93
+2019-03-04 21:01:20 [010912] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010913] generated in 0.007s
+2019-03-04 21:01:20 [010913] generating room 
+2019-03-04 21:01:20 [010913] generating using room type places, balconies:balconies passage room
+2019-03-04 21:01:20 [010913] generated in 0.004s
+2019-03-04 21:01:20 [010913] generating room vr corridor 94
+2019-03-04 21:01:20 [010913] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010913] generated in 0.006s
+2019-03-04 21:01:20 [010913] generating room vr corridor 95
+2019-03-04 21:01:20 [010913] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010915] generated in 0.018s
+2019-03-04 21:01:20 [010915] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010915] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010915] generated in 0.000s
+2019-03-04 21:01:20 [010915] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010915] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010915] generated in 0.000s
+2019-03-04 21:01:20 [010915] generating room beyond door room 0 "testVR:long corridor 01"
+2019-03-04 21:01:20 [010915] generating using room type testVR:long corridor 01
+2019-03-04 21:01:20 [010916] generated in 0.007s
+2019-03-04 21:01:20 [010916] generating room beyond door room 0 "testVR:long corridor 01"
+2019-03-04 21:01:20 [010916] generating using room type testVR:long corridor 01
+2019-03-04 21:01:20 [010916] generated in 0.008s
+2019-03-04 21:01:20 [010917] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010917] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010917] generated in 0.001s
+2019-03-04 21:01:20 [010917] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010917] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010917] generated in 0.000s
+2019-03-04 21:01:20 [010917] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010917] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010917] generated in 0.000s
+2019-03-04 21:01:20 [010917] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010917] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010917] generated in 0.000s
+2019-03-04 21:01:20 [010917] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010917] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010917] generated in 0.000s
+2019-03-04 21:01:20 [010917] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010917] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010917] generated in 0.000s
+2019-03-04 21:01:20 [010917] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010917] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010917] generated in 0.000s
+2019-03-04 21:01:20 [010917] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010917] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010917] generated in 0.000s
+2019-03-04 21:01:20 [010917] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010917] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010917] generated in 0.000s
+2019-03-04 21:01:20 [010917] generating room beyond door room 0 "testVR:view onto the city"
+2019-03-04 21:01:20 [010917] generating using room type testVR:view onto the city
+2019-03-04 21:01:20 [010917] generated in 0.000s
+2019-03-04 21:01:20 [010917] generating room vr corridor 96
+2019-03-04 21:01:20 [010917] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:20 [010917] choose for corridor from:
+2019-03-04 21:01:20 [010917]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:20 [010917]    places, maze:maze vr corridor
+2019-03-04 21:01:20 [010917]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:20 [010917]    won't be used because is empty!
+2019-03-04 21:01:20 [010917] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:20 [010917] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:20 [010917] generated in 0.003s
+2019-03-04 21:01:20 [010917] generating room vr corridor 97
+2019-03-04 21:01:20 [010917] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:20 [010917] choose for corridor from:
+2019-03-04 21:01:20 [010917]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:20 [010917]    places, maze:maze vr corridor
+2019-03-04 21:01:20 [010917]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:20 [010917]    won't be used because is empty!
+2019-03-04 21:01:20 [010917] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:20 [010917] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:20 [010918] generated in 0.009s
+2019-03-04 21:01:20 [010918] generating room vr corridor 98
+2019-03-04 21:01:20 [010918] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:20 [010918] choose for corridor from:
+2019-03-04 21:01:20 [010918]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:20 [010918]    places, maze:maze vr corridor
+2019-03-04 21:01:20 [010918]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:20 [010918]    won't be used because is empty!
+2019-03-04 21:01:20 [010918] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:20 [010918] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:20 [010918] generated in 0.004s
+2019-03-04 21:01:20 [010918] generating room vr corridor 99
+2019-03-04 21:01:20 [010918] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:20 [010918] choose for corridor from:
+2019-03-04 21:01:20 [010918]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:20 [010918]    places, maze:maze vr corridor
+2019-03-04 21:01:20 [010918]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:20 [010918]    won't be used because is empty!
+2019-03-04 21:01:20 [010918] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:20 [010918] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:20 [010919] generated in 0.007s
+2019-03-04 21:01:20 [010919] generating room vr corridor 100
+2019-03-04 21:01:20 [010919] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:20 [010919] choose for corridor from:
+2019-03-04 21:01:20 [010919]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:20 [010919]    places, maze:maze vr corridor
+2019-03-04 21:01:20 [010919]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:20 [010919]    won't be used because is empty!
+2019-03-04 21:01:20 [010919] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:20 [010919] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:20 [010920] generated in 0.009s
+2019-03-04 21:01:20 [010920] generating room vr corridor 101
+2019-03-04 21:01:20 [010920] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:20 [010920] choose for corridor from:
+2019-03-04 21:01:20 [010920]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:20 [010920]    places, maze:maze vr corridor
+2019-03-04 21:01:20 [010920]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:20 [010920]    won't be used because is empty!
+2019-03-04 21:01:20 [010920] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:20 [010920] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:20 [010921] generated in 0.009s
+2019-03-04 21:01:20 [010921] generating room vr corridor 102
+2019-03-04 21:01:20 [010921] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:20 [010921] choose for corridor from:
+2019-03-04 21:01:20 [010921]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:20 [010921]    places, maze:maze vr corridor
+2019-03-04 21:01:20 [010921]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:20 [010921]    won't be used because is empty!
+2019-03-04 21:01:20 [010921] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:20 [010921] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:20 [010921] generated in 0.007s
+2019-03-04 21:01:20 [010921] generating room vr corridor 103
+2019-03-04 21:01:20 [010921] generating using room type places, maze:maze vr corridor selector
+2019-03-04 21:01:20 [010921] choose for corridor from:
+2019-03-04 21:01:20 [010921]  + (0.500) setting type: corridor tagged: not (shaft)
+2019-03-04 21:01:20 [010921]    places, maze:maze vr corridor
+2019-03-04 21:01:20 [010921]  + (0.500) setting type: corridor tagged: shaft
+2019-03-04 21:01:20 [010921]    won't be used because is empty!
+2019-03-04 21:01:20 [010921] choose "places, maze:maze vr corridor" for corridor (through world setting condition)
+2019-03-04 21:01:20 [010921] generating using room type places, maze:maze vr corridor
+2019-03-04 21:01:20 [010922] generated in 0.002s
+2019-03-04 21:01:20 [010922] generating room vr corridor 104
+2019-03-04 21:01:20 [010922] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010922] generated in 0.003s
+2019-03-04 21:01:20 [010922] generating room vr corridor 105
+2019-03-04 21:01:20 [010922] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010922] generated in 0.002s
+2019-03-04 21:01:20 [010922] generating room vr corridor 106
+2019-03-04 21:01:20 [010922] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010922] generated in 0.003s
+2019-03-04 21:01:20 [010922] generating room vr corridor 107
+2019-03-04 21:01:20 [010922] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010923] generated in 0.002s
+2019-03-04 21:01:20 [010923] generating room vr corridor 108
+2019-03-04 21:01:20 [010923] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010923] generated in 0.003s
+2019-03-04 21:01:20 [010923] generating room vr corridor 109
+2019-03-04 21:01:20 [010923] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010923] generated in 0.003s
+2019-03-04 21:01:20 [010923] generating room vr corridor 110
+2019-03-04 21:01:20 [010923] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010923] generated in 0.002s
+2019-03-04 21:01:20 [010923] generating room vr corridor 111
+2019-03-04 21:01:20 [010923] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010923] generated in 0.002s
+2019-03-04 21:01:20 [010923] generating room vr corridor 112
+2019-03-04 21:01:20 [010923] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010924] generated in 0.003s
+2019-03-04 21:01:20 [010924] generating room vr corridor 113
+2019-03-04 21:01:20 [010924] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010924] generated in 0.003s
+2019-03-04 21:01:20 [010924] generating room vr corridor 114 (elevator)
+2019-03-04 21:01:20 [010924] generating using room type places, towers:towers door vr elevator
+2019-03-04 21:01:20 [010932] generated in 0.091s
+2019-03-04 21:01:20 [010932] generating room vr corridor 114 (elevator) (entrance 0)
+2019-03-04 21:01:20 [010932] generating using room type places, towers:towers door vr elevator floor
+2019-03-04 21:01:20 [010932] generated in 0.001s
+2019-03-04 21:01:20 [010932] generating room vr corridor 114 (elevator) (entrance 1)
+2019-03-04 21:01:20 [010932] generating using room type places, towers:towers door vr elevator floor
+2019-03-04 21:01:20 [010932] generated in 0.001s
+2019-03-04 21:01:20 [010932] generating room vr corridor 115
+2019-03-04 21:01:20 [010932] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010933] generated in 0.003s
+2019-03-04 21:01:20 [010933] generating room vr corridor 116
+2019-03-04 21:01:20 [010933] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010933] generated in 0.003s
+2019-03-04 21:01:20 [010933] generating room vr corridor 117
+2019-03-04 21:01:20 [010933] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010934] generated in 0.014s
+2019-03-04 21:01:20 [010934] generating room vr corridor 118
+2019-03-04 21:01:20 [010934] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010935] generated in 0.012s
+2019-03-04 21:01:20 [010935] generating room vr corridor 119
+2019-03-04 21:01:20 [010935] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010937] generated in 0.012s
+2019-03-04 21:01:20 [010937] generating room vr corridor 120
+2019-03-04 21:01:20 [010937] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010937] generated in 0.007s
+2019-03-04 21:01:20 [010937] generating room vr corridor 121
+2019-03-04 21:01:20 [010937] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010938] generated in 0.004s
+2019-03-04 21:01:20 [010938] generating room vr corridor 122
+2019-03-04 21:01:20 [010938] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010938] generated in 0.009s
+2019-03-04 21:01:20 [010938] generating room vr corridor 123
+2019-03-04 21:01:20 [010938] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010940] generated in 0.014s
+2019-03-04 21:01:20 [010940] generating room vr corridor 124
+2019-03-04 21:01:20 [010940] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010940] generated in 0.003s
+2019-03-04 21:01:20 [010940] generating room vr corridor 125
+2019-03-04 21:01:20 [010940] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010940] generated in 0.002s
+2019-03-04 21:01:20 [010940] generating room vr corridor 126
+2019-03-04 21:01:20 [010940] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010941] generated in 0.003s
+2019-03-04 21:01:20 [010941] generating room vr corridor 127
+2019-03-04 21:01:20 [010941] generating using room type places, towers:towers door vr corridor
+2019-03-04 21:01:20 [010941] generated in 0.003s
+2019-03-04 21:01:20 [010941] generating room vr corridor 128
+2019-03-04 21:01:20 [010941] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010942] generated in 0.011s
+2019-03-04 21:01:20 [010942] generating room vr corridor 129
+2019-03-04 21:01:20 [010942] generating using room type places, balconies:balconies door vr corridor
+2019-03-04 21:01:20 [010943] generated in 0.010s
+2019-03-04 21:01:20 [010943] generated current region in 1.24s
+2019-03-04 21:01:20 [010943] should cancel next part!
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010943]   polygonNormalIssue
+2019-03-04 21:01:20 [010952] created next region in 1.37s
+2019-03-04 21:01:20 [010952] started removal of unused temporary objects
+2019-03-04 21:01:20 [010953] [warning] HITCH FRAME TIME 20.937ms (expected 11.111ms)
+2019-03-04 21:01:20 [010955] [warning] HITCH FRAME TIME 35.942ms (expected 12.500ms)
+2019-03-04 21:01:20 [010955] ended removal of unused temporary objects (removed: 2771)
+2019-03-04 21:01:20 [010955] library - loaded 1995 objects
+2019-03-04 21:07:07 [042149] [warning] presence path exceeded size
+2019-03-04 21:09:40 [055932] improper path, doors do not connect correctly
+2019-03-04 21:11:12 [064214] improper path, doors do not connect correctly
+2019-03-04 21:11:12 [064214] improper path, doors do not connect correctly
+2019-03-04 21:12:18 [070161] improper path, doors do not connect correctly
+2019-03-04 21:12:45 [072584] quit
+2019-03-04 21:12:45 [072584] start exit
+2019-03-04 21:12:45 [072584] save player setup
+2019-03-04 21:12:45 [072584] config saved
+2019-03-04 21:12:45 [072584] save game config
+2019-03-04 21:12:45 [072584] config saved
+2019-03-04 21:12:45 [072584] terminate job system
+2019-03-04 21:12:45 [072584] terminating job system...
+2019-03-04 21:12:45 [072584] terminated job system...
+2019-03-04 21:12:45 [072584] close sound
+2019-03-04 21:12:46 [072584] close VR
+2019-03-04 21:12:46 [072584] close video 3D
+2019-03-04 21:12:46 [072584] exit now
